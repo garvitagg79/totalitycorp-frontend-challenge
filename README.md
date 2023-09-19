@@ -5,3 +5,7 @@ I have used React Native, Redux and AWS in this project. React is a cross-platfo
 
 ![homepage](https://github.com/garvitagg79/totalitycorp-frontend-challenge/assets/81882241/7c2b7cc2-0f35-43b0-9533-4b31c5639423)
 ![2 _Product_Details](https://github.com/garvitagg79/totalitycorp-frontend-challenge/assets/81882241/420cebe5-dfe0-498a-b6a6-26d61c4e3b10)
+
+
+https://github.com/garvitagg79/totalitycorp-frontend-challenge/assets/81882241/20435d05-3ca0-4d6b-b7a1-29b8197af395
+
