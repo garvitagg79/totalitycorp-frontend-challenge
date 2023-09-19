@@ -1,1 +1,3 @@
 # totalitycorp-frontend-challenge
+
+I have used React Native, Redux and AWS in this project. React is a cross-platform framework that works well for both iOS and Android as well as WebApps. I have made a product screen consisting of shoes and a detailed product screen where you can read about the product and add the item to the cart. In the shopping cart section, you can check the bill and move to the checkout process. I have used the data from Nike as a data model for this task and the UI is inspired by the Nike US App. I already worked on a similar app, and I have used some components from my previous project.
